@@ -29,31 +29,6 @@ https://user-images.githubusercontent.com/66406123/161612932-59734547-b1fe-42a0-
  
 </p>
 
-  ## Install
-
-```sh
-Npm install
-flutter pub get
-
-```
-
-## Usage
-
-```sh
-npm run start
-flutter run
-
-```
-
-## Run tests
-
-```sh
-npm run test
-f5 / debug
-
-```
-
-
 
 
  <div align="center"> 
